@@ -21,7 +21,7 @@ const CardComment: React.FC = () => {
       </header>
       <div className="text-start text-[16px]">
         Impressive! Though it seems the drag feature could be improved. But
-        overall it looks incredible. You've nailed the design and the
+        overall it looks incredible. You&apos;ve nailed the design and the
         responsiveness at various breakpoints works really well.
       </div>
       <VotingGroup handleVote={() => {}} score={10} />
